@@ -1,6 +1,7 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: side hustle
+title: "Welcome to the hustle my boy!"
 ---
-Your text
-Use the left arrow to go back!
+Lemme see you work on that code
+I do not get this: use left arrow to go back!
+keep coding
